@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osm_map">OSM map</string>
+    <string name="ip_location">IP Location</string>
+    <string name="ip_details">IP Details</string>
+    <string name="locate_my_ip_on_map">Locate My IP on Map</string>
+    <string name="organization">Organization</string>
+    <string name="currency">Currency</string>
+    <string name="timezone">TimeZone</string>
+    <string name="address">Address</string>
+    <string name="version">Version</string>
+    <string name="network">Network</string>
+    <string name="ip_address">IP Address</string>
+</resources>
